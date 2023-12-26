@@ -2,9 +2,9 @@
 
 ReactJs and TypeScript - ReactApp Basic Template
 
-# Public and Private Routing system
-# Redux Store
-# Orderly & Understandable code
+1. Public and Private Routing system
+2. Redux Store
+3. Orderly & Understandable code
 
 ## Available Scripts
 
